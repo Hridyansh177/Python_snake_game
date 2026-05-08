@@ -48,7 +48,8 @@ python snake.py
 
 ## 📸 Preview
 
-Add a screenshot or gameplay GIF here later.
+![Snake Game](ss.jpg)
+
 
 ## 🚀 Future Improvements
 
@@ -57,6 +58,8 @@ Add a screenshot or gameplay GIF here later.
 * Sound effects
 * High score system
 * Pause functionality
+
+
 
 ## 👨‍💻 Author
 
